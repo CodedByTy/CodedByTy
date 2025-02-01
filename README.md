@@ -18,19 +18,19 @@
   <a href="https://discord.com/users/715628898963947610" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://instagram.com/learnwithtyler" target="_blank">
+  <a href="https://instagram.com/codedbyty" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://ko-fi.com/learnwithtyler" target="_blank">
+  <a href="https://ko-fi.com/codedbyty" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   </a>
-  <a href="https://twitch.com/learnwithtyler" target="_blank">
+  <a href="https://twitch.com/codedbyty" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
-  <a href="https://twitter.com/learnwithtyler" target="_blank">
+  <a href="https://twitter.com/codedbyty" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.youtube.com/@tyzjourney" target="_blank">
+  <a href="https://www.youtube.com/@codedbyty" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
