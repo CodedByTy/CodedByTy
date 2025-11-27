@@ -1,73 +1,35 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Tyler Banner" />
+</p>
 
-###
+# Hi, I'm Tyler 👋
 
-<p align="left">My name is Tyler and I'm a Web-Developer from South Africa.</p>
+**Developer • Creator • Entrepreneur**
 
-###
+I build things across the web, gaming, and technology.  
+Always learning, always building, always improving.
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Back-End development<br>🎯 Goals: Rule the Tech World!<br>🎲 Fun fact: I am still in high school :)</p>
+---
 
-###
+## 🔧 What I Do
+- Build tools, websites, and tech projects  
+- Develop RP/FPS games  
+- Create online content (stories, lifestyle, tech)  
+- Explore AI, NLP, and modern web development  
 
-<h2 align="left">Connect with me:</h2>
+---
 
-###
+## 🌱 Currently Working On
+- Personal dev tools  
+- Browser + open-source experiments  
+- Content creation workflow  
+- New coding projects weekly  
 
-<div align="center">
-  <a href="https://discord.com/users/715628898963947610" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://instagram.com/codedbyty" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://ko-fi.com/codedbyty" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
-  </a>
-  <a href="https://twitch.com/codedbyty" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-  <a href="https://twitter.com/codedbyty" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@codedbyty" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
+---
 
-###
+## 📫 Connect
+If you want to collaborate, build something together, or just talk tech — reach out anytime.
 
-<h2 align="left">My Techstack:</h2>
+---
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h2 align="left">Some Statistics:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbyty&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
+**Thanks for visiting! 🚀**
