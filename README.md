@@ -17,31 +17,63 @@
 Focused on building **clean**, **functional**, and **impactful** digital things.  
 I like fast workflows, terminal tools, and anything that feels like *real* development.
 
-### **Tags that define me**
-![Coding](https://img.shields.io/badge/-Coding-00ff88?style=for-the-badge&logo=terminal&logoColor=000)
-![Creative](https://img.shields.io/badge/-Creator-18181b?style=for-the-badge&logo=github&logoColor=white)
-![Builder](https://img.shields.io/badge/-Builder-00c7a5?style=for-the-badge)
-![Minimalist Dev](https://img.shields.io/badge/-Minimalist%20Dev-333333?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/-Open%20Source-1e90ff?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 ---
+## <TechStack />
 
-## 🧰 Tech Stack (Terminal Style)
+<div align="center">
 
-> **I prefer tools that stay out of the way and let me build fast.**
+<h3><strong>🧑‍💻 My Tech Stack</strong></h3>
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JS-151515?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/Python-151515?style=flat-square&logo=python)
-![HTML](https://img.shields.io/badge/HTML-151515?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-151515?style=flat-square&logo=css3)
+<!-- Icon Row -->
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px; margin-top:20px;">
 
-### **Interests**
-![Web Dev](https://img.shields.io/badge/Web%20Development-00ff88?style=flat-square)
-![Browser Dev](https://img.shields.io/badge/Browser%20Experiments-444?style=flat-square)
-![Game Dev](https://img.shields.io/badge/RP%20%2F%20FPS%20Games-111?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-00c7a5?style=flat-square)
-![AI](https://img.shields.io/badge/AI%20%2F%20NLP-0084ff?style=flat-square)
+  <!-- HTML5 -->
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" />
+    <p>HTML</p>
+  </div>
+
+  <!-- CSS3 -->
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" />
+    <p>CSS</p>
+  </div>
+
+  <!-- JavaScript -->
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
+    <p>JavaScript</p>
+  </div>
+
+  <!-- Next.js -->
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" />
+    <p>Next.js</p>
+  </div>
+
+  <!-- Tailwind CSS -->
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" />
+    <p>Tailwind</p>
+  </div>
+
+  <!-- Other Tool Placeholder -->
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
+    <p>Git</p>
+  </div>
+
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" />
+    <p>npm</p>
+  </div>
+
+  <!-- Add more tools/libraries as needed -->
+  
+</div>
+
+</div>
 
 ---
 
@@ -59,10 +91,6 @@ Fast-paced, fun systems for players — experimental mechanics.
 ### **🟩 Content creation**
 Posting stories, tech content, and behind-the-scenes building.
 
-**Tags:**  
-![Terminal UI](https://img.shields.io/badge/Terminal%20UI-00ff88?style=for-the-badge)
-![Experiments](https://img.shields.io/badge/Experiments-black?style=for-the-badge)
-![In Progress](https://img.shields.io/badge/In%20Progress-333?style=for-the-badge)
 
 ---
 
@@ -76,10 +104,6 @@ Posting stories, tech content, and behind-the-scenes building.
 - Fast iteration  
 - Open-source mindset  
 
-**Tags:**  
-![Simplicity](https://img.shields.io/badge/-Simplicity-00ff88?style=flat-square)
-![Speed](https://img.shields.io/badge/-Speed-0ea5e9?style=flat-square)
-![Focus](https://img.shields.io/badge/-Focus-7c3aed?style=flat-square)
 
 ---
 
