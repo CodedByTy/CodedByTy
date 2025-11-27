@@ -33,6 +33,8 @@ I like fast workflows, terminal tools, and anything that feels like *real* devel
 
 <div align="center">
 
+<h3><strong>🧑‍💻 My Tech Stack</strong></h3>
+
 <table>
   <tr>
     <th align="center">Languages</th>
@@ -42,40 +44,43 @@ I like fast workflows, terminal tools, and anything that feels like *real* devel
   <tr>
     <!-- Languages -->
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" /><br>
-      HTML
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" /><br>
-      CSS
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" /><br>
-      JavaScript
+      <div style="margin-bottom:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" /><br>HTML
+      </div>
+      <div style="margin-bottom:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" /><br>CSS
+      </div>
+      <div style="margin-bottom:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" /><br>JavaScript
+      </div>
     </td>
-
     <!-- Frameworks -->
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" /><br>
-      Next.js
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" /><br>
-      Tailwind
+      <div style="margin-bottom:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" /><br>Next.js
+      </div>
+      <div style="margin-bottom:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" /><br>Tailwind
+      </div>
     </td>
-
     <!-- Tools -->
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" /><br>
-      Git
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" /><br>
-      npm
-      <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" /><br>
-      Linux
+      <div style="margin-bottom:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" /><br>Git
+      </div>
+      <div style="margin-bottom:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" /><br>npm
+      </div>
+      <div style="margin-bottom:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" /><br>Linux
+      </div>
     </td>
   </tr>
 </table>
 
 </div>
+
+
 
 ---
 
